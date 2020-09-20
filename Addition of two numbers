@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<conio.h>
+ int a,b;
+{
+  printf("enter a,b value");
+ scanf("%d,%d",a,b);
+ int sum=a+b;
+ printf("sum of a,b is %d", sum);
+ }
